@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+multithreading_DZ_18.iml
+.idea
